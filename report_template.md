@@ -1,10 +1,10 @@
-# Programming Assignment 1.1
+# Group Assignment 1.5
 
 *[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
 
-*Written by: `<author(s)>`*
+*Written by: `Patricia Mares Nasarre`*
 
-*Due: `<day of week>`, `<month>` `<day>`, `<year>`.*
+*Due: `Friday`, `October` `3rd`, `2025`.*
 
 ## Part 1
 

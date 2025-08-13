@@ -30,7 +30,7 @@ A key property of using a multivariate Gaussian distribution is that both the ma
 Regarding the bivariate plots, the samples seem to capture the strength of the dependence in the observations, However, the shape of the dependence of the samples is more elliptical, while in some pairs that does not fully hold (e.g.: plot $S$ and $P$).
 % solution_end
 
-**3.2 Assuming the safety thresholds $S<30m/s$, $D>40m$ and $P<7s$, what is the probability of doing a passing maneuver under safe conditions? What is the difference between assuming independence or accounting for it using the multivariate Gaussian distribution?**
+**3.2 Assuming the safety thresholds $S<30m/s$, $D>45m$ and $P<7s$, what is the probability of doing a passing maneuver under safe conditions? What is the difference between assuming independence or accounting for it using the multivariate Gaussian distribution?**
 
 % solution_start
 The probability of meeting the safety limits (S < 30, D > 45 and P < 7) using the multivariate Gaussian distribution is approximately 0.12 and assuming independence is 0.14.

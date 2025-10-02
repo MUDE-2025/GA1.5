@@ -2,7 +2,7 @@
 
 *Due: `Friday, October 3rd, 2025`*
 
-You can access this assignment with the following link: `classroom.github.com/a/<xxxxxxx>`.
+You can access this assignment with the following link: `https://classroom.github.com/a/Tyx3C1F4`.
 
 `<This repository contains source file for the assignment and will be used a source for student repositories and in the workbook. Replace this README with appropriate information describing the file types and how it should be submitted in case of a programming or workshop assignment.>`
 

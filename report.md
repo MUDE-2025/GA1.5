@@ -1,11 +1,4 @@
-# Group Assignment 1.5: Gaussian & Furious
-
-*[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
-
-*Written by: `Patricia Mares Nasarre`*
-
-*Due: `Friday 3rd October 2025`.*
-
+# Report
 
 ### Questions for Part 2. Data exploration
 

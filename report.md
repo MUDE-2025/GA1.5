@@ -26,7 +26,7 @@ Grading scheme (1 point):
 
 A key property of using a multivariate Gaussian distribution is that both the marginal distributions (the distribution of each of the random variables) and the joint distribution are Gaussian. Therefore, as it can be observed in the histograms in the Figure below, the samples present a symmetric bell-shaped distribution, **while the observation have a right tail**. This behavior cannot be captured using a Gaussian distribution.
 
-![](https://files.mude.citg.tudelft.nl/scatter_ga15.png)
+![](https://github.com/TUDelft-MUDE/source-files/raw/main/file/scatter_ga15.png)
 
 Regarding the bivariate plots, the samples seem to capture the strength of the dependence in the observations, However, the shape of the dependence of the samples is more elliptical, while in some pairs that does not fully hold (e.g.: plot $S$ and $P$).
 
@@ -86,13 +86,13 @@ Grading scheme (1.75 points):
 
 % solution_start
 
-![Influence of conditionalization in the univariate marginal distributions of $S$ and $P$](https://files.mude.citg.tudelft.nl/cond_margins.png)
+![Influence of conditionalization in the univariate marginal distributions of $S$ and $P$](https://github.com/TUDelft-MUDE/source-files/raw/main/file/cond_margins.png)
 
 We have conditionalized $d$ in a value above its mean. Since the correlation between $d$ and $S$ is positive, the distribution of $S$ moves towards positive values; increasing values of $d$ imply also higher values of $S$. Also, the conditional distribution of $S$ becomes narrower as the model has more information. 
 
 On the other hand, $P$ is not strongly correlated to $d$, presenting a weak negative correlation ($\rho_{d,P}=-0.19$). Therefore, the marginal distribution does not suffer a change as noteworthy as the distribution of $S$. Although it is difficult to distinguish from the plot, the standard deviation of $P$ gets slightly reduced and the distribution shifts towards negative values; increasing values of $d$ imply decreasing values of $P$.
 
-![Influence of conditionalization in the bivariate margin of $S$ and $P$](https://files.mude.citg.tudelft.nl/cond_biv_ga15.png)
+![Influence of conditionalization in the bivariate margin of $S$ and $P$](https://github.com/TUDelft-MUDE/source-files/raw/main/file/cond_biv_ga15.png)
 
 Overall, it is possible to see that the conditional PDF (in greys) is narrower than the unconditional PDF (in colors) as we have provided the model with additional information, thus, reducing the uncertainty. This is especially noteworthy in the $S$-dimension.
 
